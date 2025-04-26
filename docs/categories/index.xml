@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 知了的小站</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:55232/categories/</link>
     <description>Recent content in Categories on 知了的小站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55232/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
